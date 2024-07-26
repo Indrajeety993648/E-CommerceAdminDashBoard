@@ -138,7 +138,7 @@
 
     > div {
       background-color: white;
-      box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.132);
+      box-shadow: 0px 10px 10px rgba(257, 0, 0, 0.132);
       border-radius: 10px;
     }
     .gender-chart {
@@ -154,7 +154,7 @@
       > p {
         @include posCenter;
         font-size: 2rem;
-        color: rgba(0, 0, 0, 0.634);
+        color: rgba(10, 12, 25, 0.634);
       }
     }
 
